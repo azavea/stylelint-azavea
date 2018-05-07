@@ -1,0 +1,26 @@
+// Doesn't test everything. Tries to cover critical plugins and custom rules.
+
+div {
+  background-color: black;
+  width: 100px;
+
+  > .foo {
+    .bar {
+      .baz {
+          color: #333333;
+      }
+
+      height: 140px;
+      position: absolute;
+    }
+  }
+
+  @media (hover: hover) {
+    > .foo {
+      color: #999;
+    }
+  }
+
+  color: #444;
+  margin: 1em 1em;
+}

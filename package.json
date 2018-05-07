@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-azavea",
+  "version": "0.1.0",
+  "description": "stylelint config for Azavea projects",
+  "author": "Azavea",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azavea/stylelint-azavea.git"
+  },
+  "main": "main.js",
+  "files": [
+    "main.js"
+  ],
+  "dependencies": {
+    "stylelint": "^9.2.0",
+    "stylelint-at-rule-no-children": "^0.3.0",
+    "stylelint-config-rational-order": "^0.0.2",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
+    "stylelint-order": "^0.8.1",
+    "stylelint-rscss": "^0.4.0",
+    "stylelint-scss": "^3.1.0"
+  }
+}

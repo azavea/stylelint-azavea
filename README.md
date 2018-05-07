@@ -25,6 +25,7 @@ npm install https://github.com/azavea/stylelint-azavea.git --save-dev
 Recommended:
 - Install the [stylelint plugin for your editor](https://stylelint.io/user-guide/complementary-tools/)
 - Integrate stylelint into your [build process and CI](https://stylelint.io/user-guide/complementary-tools/)
+  - `stylelint` should be run on source `.scss` files, before they get converted to `.css`
   - Use the `--fix` option to automatically fix many issues.
 
 ## Usage

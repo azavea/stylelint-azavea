@@ -17,7 +17,7 @@ module.exports = {
         "max-nesting-depth": [3, {
             "ignoreAtRules": "/.*/"
         }],
-        "no-empty-source": 0,
+        "no-empty-source": null,
         "selector-max-id": 0,
         "selector-max-type": 0,
         "shorthand-property-no-redundant-values": true,

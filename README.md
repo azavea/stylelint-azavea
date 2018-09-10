@@ -51,11 +51,6 @@ A common config that detects possible errors and enforces "common stylistic conv
 found within a handful of CSS styleguides, including: The Idiomatic CSS Principles,
 Google's CSS Style Guide, Airbnb's Styleguide, and @mdo's Code Guide."
 
-- [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) – A config and
-plugin that enforces conventions from [rscss](http://rscss.io/) (Reasonable
-System for CSS Stylesheet Structure), "a set of simple ideas to guide your
-process of building maintainable CSS."
-
 - [stylelint-config-rational-order](https://www.npmjs.com/package/stylelint-config-rational-order) –
 Sorts related property declarations by grouping and ordering them as follows:
 
@@ -151,8 +146,3 @@ take care of that.
 
 We configure a number of options from the `stylelint-scss` plugin. Too many to
 describe here, but hopefully all sensible.
-
-#### `rscss/class-format`
-
-[Override rscss's buggy class format](https://github.com/rstacruz/stylelint-rscss/issues/9#issuecomment-357462211)
-to allow nested components, as encouraged by the rscss spec.

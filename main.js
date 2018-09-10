@@ -3,7 +3,6 @@
 module.exports = {
     "extends": [
       "stylelint-config-standard",
-      "stylelint-rscss/config",
       "stylelint-config-rational-order"
     ],
     "plugins": [
@@ -35,9 +34,6 @@ module.exports = {
         ],
         "aditayvm/at-rule-no-children": true,
         "plugin/declaration-block-no-ignored-properties": true,
-        "rscss/class-format": [true, {
-            "element": "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$"
-        }],
         "at-rule-no-unknown": null,
         "scss/at-rule-no-unknown": true,
         "scss/at-else-closing-brace-newline-after": "always-last-in-chain",

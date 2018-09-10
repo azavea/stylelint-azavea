@@ -1,5 +1,3 @@
-# WIP: Not ready for use by dev teams yet.
-
 # Azavea stylelint config
 
 An opinionated stylelint config for Azavea projects.

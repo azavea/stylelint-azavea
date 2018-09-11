@@ -47,7 +47,6 @@ module.exports = {
         "scss/at-if-closing-brace-space-after": "always-intermediate",
         "scss/at-import-no-partial-leading-underscore": true,
         "scss/at-mixin-argumentless-call-parentheses": "always",
-        "scss/at-mixin-named-arguments": "always",
         "scss/at-mixin-parentheses-space-before": "never",
         "scss/dollar-variable-colon-newline-after": "always-multi-line",
         "scss/dollar-variable-colon-space-after": "always-single-line",

@@ -29,8 +29,8 @@ module.exports = {
         "order/order": [
             "dollar-variables",
             "custom-properties",
-            "declarations",
             "at-rules",
+            "declarations",
             "rules"
         ],
         "aditayvm/at-rule-no-children": true,

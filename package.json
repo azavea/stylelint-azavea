@@ -1,6 +1,6 @@
 {
   "name": "stylelint-azavea",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "stylelint config for Azavea projects",
   "author": "Azavea",
   "private": true,
@@ -13,12 +13,12 @@
     "main.js"
   ],
   "dependencies": {
-    "stylelint": "^9.2.0",
-    "stylelint-at-rule-no-children": "^0.3.0",
+    "stylelint": "^9.6.0",
+    "stylelint-at-rule-no-children": "^0.3.1",
     "stylelint-config-rational-order": "^0.0.2",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
-    "stylelint-order": "^0.8.1",
-    "stylelint-scss": "^3.1.0"
+    "stylelint-order": "^1.0.0",
+    "stylelint-scss": "^3.3.1"
   }
 }

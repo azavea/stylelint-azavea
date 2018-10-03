@@ -12,6 +12,7 @@ module.exports = {
         "stylelint-declaration-block-no-ignored-properties"
     ],
     "rules": {
+        "indentation": 4,
         "color-named": "never",
         "max-nesting-depth": [3, {
             "ignoreAtRules": "/.*/"
@@ -28,8 +29,8 @@ module.exports = {
         "order/order": [
             "dollar-variables",
             "custom-properties",
-            "declarations",
             "at-rules",
+            "declarations",
             "rules"
         ],
         "aditayvm/at-rule-no-children": true,

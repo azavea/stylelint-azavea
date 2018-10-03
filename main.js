@@ -12,6 +12,7 @@ module.exports = {
         "stylelint-declaration-block-no-ignored-properties"
     ],
     "rules": {
+        "indentation": 4,
         "color-named": "never",
         "max-nesting-depth": [3, {
             "ignoreAtRules": "/.*/"

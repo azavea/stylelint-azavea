@@ -73,37 +73,6 @@ ordered as follows:
 And within the declarations section, `stylelint-config-rational-order` uses it
 to keep declarations ordered sensibly.
 
-#### [stylelint-at-rule-no-children](https://github.com/adityavm/stylelint-at-rule-no-children)
-
-Disallows block declarations inside at rules. It ensures we're consistent about
-whether @-rules surround their block or are nested inside it:
-
-```css
-
-/* good css */
-
-.foo {
-  color: red;
-
-  @media screen and (max-width: 480px) {
-    color: blue;
-  }
-}
-
-/* bad css */
-
-.foo {
-  color: red;
-}
-
-@media screen and (max-width: 480px) {
-  .foo {
-    color: blue;
-  }
-}
-
-```
-
 #### [stylelint-declaration-block-no-ignored-properties](https://github.com/kristerkari/stylelint-declaration-block-no-ignored-properties)
 
 Disallows property values that are ignored due to another property value in the same rule.

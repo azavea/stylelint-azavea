@@ -8,7 +8,6 @@ module.exports = {
     "plugins": [
         "stylelint-scss",
         "stylelint-order",
-        "stylelint-at-rule-no-children",
         "stylelint-declaration-block-no-ignored-properties"
     ],
     "rules": {
@@ -33,7 +32,6 @@ module.exports = {
             "declarations",
             "rules"
         ],
-        "aditayvm/at-rule-no-children": true,
         "plugin/declaration-block-no-ignored-properties": true,
         "at-rule-no-unknown": null,
         "scss/at-rule-no-unknown": true,

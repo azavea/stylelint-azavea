@@ -2336,11 +2336,6 @@ style-search@^0.1.0:
   resolved "https://registry.yarnpkg.com/style-search/-/style-search-0.1.0.tgz#7958c793e47e32e07d2b5cafe5c0bf8e12e77902"
   integrity sha1-eVjHk+R+MuB9K1yv5cC/jhLneQI=
 
-stylelint-at-rule-no-children@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/stylelint-at-rule-no-children/-/stylelint-at-rule-no-children-0.3.1.tgz#700152f9ddf4c544592e80ffdcb67ff342749e8d"
-  integrity sha512-SNXI6r3XSQja4PqKunu1LNzfqTc/qaONnkOW4ey7ONYY3Z4HIgrBF1ctxCITth1az0fRdrUZNixT/NQIROTX1Q==
-
 stylelint-config-rational-order@^0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/stylelint-config-rational-order/-/stylelint-config-rational-order-0.0.2.tgz#19cff04c8233dd8320e483c8653c14c8965e22f4"

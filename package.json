@@ -1,6 +1,6 @@
 {
   "name": "stylelint-azavea",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "stylelint config for Azavea projects",
   "author": "Azavea",
   "private": true,

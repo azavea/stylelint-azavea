@@ -46,7 +46,6 @@ module.exports = {
         "scss/at-else-empty-line-before": "never",
         "scss/at-else-if-parentheses-space-before": "always",
         "scss/at-extend-no-missing-placeholder": true,
-        "scss/at-function-named-arguments": "always",
         "scss/at-function-parentheses-space-before": "never",
         "scss/at-if-closing-brace-newline-after": "always-last-in-chain",
         "scss/at-if-closing-brace-space-after": "always-intermediate",

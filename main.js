@@ -21,9 +21,6 @@ module.exports = {
         "selector-max-type": 0,
         "shorthand-property-no-redundant-values": true,
         "at-rule-no-vendor-prefix": true,
-        "at-rule-empty-line-before": ["always", {
-            "ignoreAtRules": ["if", "else"]
-        }],
         "block-closing-brace-newline-after": ["always", {
             "ignoreAtRules": ["if", "else"]
         }],

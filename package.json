@@ -12,8 +12,10 @@
   "files": [
     "main.js"
   ],
+  "peerDependencies": {
+    "stylelint": "^9.6.0"
+  },
   "dependencies": {
-    "stylelint": "^9.6.0",
     "stylelint-config-rational-order": "^0.0.2",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",

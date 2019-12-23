@@ -16,10 +16,10 @@
     "stylelint": "^9.6.0"
   },
   "dependencies": {
-    "stylelint-config-rational-order": "^0.0.2",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
-    "stylelint-order": "^1.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.2.0",
+    "stylelint-order": "^3.1.1",
     "stylelint-scss": "^3.3.1"
   }
 }
